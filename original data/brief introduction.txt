@@ -1,0 +1,3 @@
+sam.tab中study_condition为分类指标，是研究结局
+聚类层次从最细到最粗为species，genus，family，order，class，phylum
+除yuj和fengq外都先取species level进行机器学习
